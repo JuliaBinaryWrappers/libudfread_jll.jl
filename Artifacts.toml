@@ -1,0 +1,127 @@
+[[libudfread]]
+arch = "aarch64"
+git-tree-sha1 = "0503ae73f94bb3f089781381f84ef827de1c5b78"
+os = "macos"
+
+    [[libudfread.download]]
+    sha256 = "abac29ee858e31e05c40946043a402e1bcbdff90fe29cf5355d08195e1906e84"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.aarch64-apple-darwin.tar.gz"
+[[libudfread]]
+arch = "aarch64"
+git-tree-sha1 = "78fe4aa5d95abcb87cb66c0e1cd8238b14d15b1e"
+libc = "glibc"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "4bb532391b6c83ccaf57a1f453b035a1efe05caa238c541a1c1f1f492fdaa7b8"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.aarch64-linux-gnu.tar.gz"
+[[libudfread]]
+arch = "aarch64"
+git-tree-sha1 = "aa7fc7e18f3ac1ae9eef3c7cb7269fce042fcf73"
+libc = "musl"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "bd4ba535d4a23ad4a58ee8b0c72770c2764e31be25c5d0f1eafb3c2a2618e8ed"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.aarch64-linux-musl.tar.gz"
+[[libudfread]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "876c57c32c9a33ec53db41c5fdd28cface1fdf3e"
+libc = "glibc"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "2db6d2409e86e60e292630f5b3c0733b52e6d44fc276ff6761f0ecb9180bf647"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.armv6l-linux-gnueabihf.tar.gz"
+[[libudfread]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3a40c7ff0d1c1b66a582299c6f51054d2c1ac702"
+libc = "musl"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "da5c9394db81fc7f92eee72d7a113a48b1ef22507481612e2049e07f04467e25"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.armv6l-linux-musleabihf.tar.gz"
+[[libudfread]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a486f8854fcc6bd493e59b079ab5228ed6c85c7a"
+libc = "glibc"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "2c7bc37b016ec09e091f4c483e4853179bb562514b0d7cd25c6254a667cb1656"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.armv7l-linux-gnueabihf.tar.gz"
+[[libudfread]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f15ba8bef010c231ff4dfd57bb952b8ef940a22b"
+libc = "musl"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "b550f01b57f8ad0c74e666b821888645a84cb41ab44067a0048272ec62284756"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.armv7l-linux-musleabihf.tar.gz"
+[[libudfread]]
+arch = "i686"
+git-tree-sha1 = "56b02387bc7775242246701ac508871791b5011e"
+libc = "glibc"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "cfa7735e65709e4210a3a732e1f9853011c39f346d64ac2d95eae26b8cb0492b"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.i686-linux-gnu.tar.gz"
+[[libudfread]]
+arch = "i686"
+git-tree-sha1 = "0e4277647c3e5f6a0b9b7937b70793a82f3cf3b7"
+libc = "musl"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "05b2bcdcc0d9419ec56d8218375ecff91f0842f8e1ebba218962897665a3fb76"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.i686-linux-musl.tar.gz"
+[[libudfread]]
+arch = "powerpc64le"
+git-tree-sha1 = "245d4ea8e420069e450899b68bef7a599a480c36"
+libc = "glibc"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "16961035d2de1e2d0e586477a211515a6f1bc99c5615c3e3ef634c94d0c00e32"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.powerpc64le-linux-gnu.tar.gz"
+[[libudfread]]
+arch = "x86_64"
+git-tree-sha1 = "a781bd8928ca967854c7c33b9223fbdcf94ee860"
+os = "macos"
+
+    [[libudfread.download]]
+    sha256 = "a5c81bed06877f615900f93c4239a3d87c9be3d68c94fcfbaef51e320bfe8bd6"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.x86_64-apple-darwin.tar.gz"
+[[libudfread]]
+arch = "x86_64"
+git-tree-sha1 = "4c5da9f3e2e4a76f47b944b5ff198a99145c0c03"
+libc = "glibc"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "a888e1656c1919321879706058d2ac8702814139a050eaae8d9a3d8ba7717e2b"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.x86_64-linux-gnu.tar.gz"
+[[libudfread]]
+arch = "x86_64"
+git-tree-sha1 = "68c15482b283f9428094fcc84a176dd4e2ba1e10"
+libc = "musl"
+os = "linux"
+
+    [[libudfread.download]]
+    sha256 = "bd6163fcb04933beaf8201071d425f8a8112442e0bc944051d2a9b009b5b1f1d"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.x86_64-linux-musl.tar.gz"
+[[libudfread]]
+arch = "x86_64"
+git-tree-sha1 = "1b5b000376f51138ced5d4dcd04cb23c34b5c8a7"
+os = "freebsd"
+
+    [[libudfread.download]]
+    sha256 = "3c8cb1e42afa9339188275db1fc2a95fa0137917e0ff435bda614043d00d973a"
+    url = "https://github.com/JuliaBinaryWrappers/libudfread_jll.jl/releases/download/libudfread-v1.1.2+0/libudfread.v1.1.2.x86_64-unknown-freebsd.tar.gz"
